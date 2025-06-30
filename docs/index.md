@@ -9,4 +9,6 @@ A short intro paragraph will go here. Then we could have a table of contents.
 
 [Link to Section 1 Doc](./section1doc.html).
 
-[Link to Template](./templateforindex.html).
+[Link to Template](./TemplateForIndex.html).
+
+[Contributors](./Contributors.html).
