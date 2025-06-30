@@ -1,4 +1,10 @@
-# CCAMLR Science Toolbox
+---
+layout: default
+---
+
+# Resources for CCAMLR (and other) Scientists
 
 Resources for CCAMLR works - As discussed during WG-SAM-2024.
-Pages files here.
+A short intro paragraph will go here. Then we could have a table of contents.
+
+[Link to Section 1 Doc](./Section-1-Doc.html).
