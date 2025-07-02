@@ -2,12 +2,16 @@
 layout: default
 ---
 
+[CCAMLRGIS]:https://github.com/ccamlr/CCAMLRGIS?tab=readme-ov-file#ccamlrgis-r-package
+
 ------------------------------------------------------------------------
 
 # Resources from and for CCAMLR Scientists
 
 The table of contents below separates resources in broad themes,
 but some topics are cross-cutting and could be applied in different contexts.
+
+[Contributors](./Contributors.html)
 
 ------------------------------------------------------------------------
 
@@ -19,7 +23,8 @@ but some topics are cross-cutting and could be applied in different contexts.
 ##	Acoustic
 
 - Past surveys
-  - [2019Area48Survey](https://github.com/ccamlr/2019Area48Survey): Matlab code to process the data from the International Synoptic Krill Survey in Area 48, 2019.
+  - [2019Area48Survey](https://github.com/ccamlr/2019Area48Survey): Matlab code to process
+  the data from the International Synoptic Krill Survey in Area 48, 2019 (https://doi.org/10.1093/jcbiol/ruab071).
   
 - Current and future
   - Survey design tool (*In prep.*)
@@ -27,14 +32,16 @@ but some topics are cross-cutting and could be applied in different contexts.
 
 ## Longline
 
+- [create_Stations](https://github.com/ccamlr/CCAMLRGIS#22-create-stations): R function from
+the [CCAMLRGIS] package to create random point locations inside a polygon and within bathymetry strata.
+
 ## Trawl
 
 
-## Header 2
+<br>
+
+## Stock Assessments and tools
 
 
-[Link to Section 1 Doc](./section1doc.html).
 
-[Link to Template](./TemplateForIndex.html).
 
-[Contributors](./Contributors.html).
