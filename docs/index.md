@@ -2,10 +2,25 @@
 layout: default
 ---
 
-# Resources for CCAMLR (and other) Scientists
+# Resources from and for CCAMLR Scientists
 
-Resources for CCAMLR works - As discussed during WG-SAM-2025.
-A short intro paragraph will go here. Then a table of contents with links to separate documents.
+The table of contents below separates resources in broad themes,
+but some of them are cross-cutting and could be applied in different contexts.
+
+
+# Survey Design
+
+##	Acoustic
+
+[2019Area48Survey](https://github.com/ccamlr/2019Area48Survey)
+
+## Longline
+
+## Trawl
+
+
+## Header 2
+
 
 [Link to Section 1 Doc](./section1doc.html).
 
