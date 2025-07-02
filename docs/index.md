@@ -2,11 +2,16 @@
 layout: default
 ---
 
+------------------------------------------------------------------------
+
 # Resources from and for CCAMLR Scientists
 
 The table of contents below separates resources in broad themes,
-but some of them are cross-cutting and could be applied in different contexts.
+but some topics are cross-cutting and could be applied in different contexts.
 
+------------------------------------------------------------------------
+
+<br>
 
 # Survey Design
 
