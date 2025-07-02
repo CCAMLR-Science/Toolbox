@@ -105,7 +105,7 @@ spatial layers following the Geospatial Rules, and other resources such as coast
 
 -	[Geographical Data](https://github.com/ccamlr/data): Repository of shapefiles and GeoTIFFs.
 
--	[CCAMLRGIS]: R library to assist in the production of maps and the production of some spatial analyses.
+-	[CCAMLRGIS] R library to assist in the production of maps and the production of some spatial analyses.
 
 -	Shiny data viewers: Online GIS data viewers, including a [public one](https://ccamlrgis.shinyapps.io/public/).
 
