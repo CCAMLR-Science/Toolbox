@@ -117,7 +117,7 @@ CCAMLR Subareas and Divisions, bathymetry data).
   - [Data gridding](https://github.com/ccamlr/CCAMLRGIS/blob/master/Advanced_Grids/Advanced_Grids.md#advanced-grids-tutorial): 
   R tutorial to produce maps of gridded data.
   
-  - Seabed area estimation
+  - [Seabed area estimation](./seabed_area_doc.html)
 
 -	Satellite data (*In prep.*)
 
