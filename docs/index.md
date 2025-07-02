@@ -101,13 +101,23 @@ the [CCAMLRGIS] package to create random locations inside a chosen area and with
 # Geographic Information Systems 
 
 -	[geospatial_operations](https://github.com/ccamlr/geospatial_operations): R scripts to generate
-spatial layers following the Geospatial Rules, and other resources such as coastlines.
+spatial layers following the [Geospatial Rules](https://github.com/ccamlr/geospatial_operations?tab=readme-ov-file#1-geospatial-rules),
+and other resources such as coastlines.
 
--	[Geographical Data](https://github.com/ccamlr/data): Repository of shapefiles and GeoTIFFs.
-
--	[CCAMLRGIS] R library to assist in the production of maps and the production of some spatial analyses.
+-	[Geographical Data](https://github.com/ccamlr/data): Repository of georeferenced layers (*e.g.*,
+CCAMLR Subareas and Divisions, bathymetry data).
 
 -	Shiny data viewers: Online GIS data viewers, including a [public one](https://ccamlrgis.shinyapps.io/public/).
+
+-	[CCAMLRGIS] R library to assist in the production of maps and the production of some spatial analyses. Examples:
+
+  - [Basemaps](https://github.com/ccamlr/CCAMLRGIS/blob/master/Basemaps/Basemaps.md#basemaps): R scripts
+  to reproduce the maps shown in the [Fishery Reports](https://fisheryreports.ccamlr.org./),
+  
+  - [Data gridding](https://github.com/ccamlr/CCAMLRGIS/blob/master/Advanced_Grids/Advanced_Grids.md#advanced-grids-tutorial): 
+  R tutorial to produce maps of gridded data.
+  
+  - Seabed area estimation
 
 -	Satellite data (*In prep.*)
 
