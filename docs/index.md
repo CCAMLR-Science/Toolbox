@@ -15,9 +15,15 @@ but some topics are cross-cutting and could be applied in different contexts.
 
 # Survey Design
 
+
 ##	Acoustic
 
-[2019Area48Survey](https://github.com/ccamlr/2019Area48Survey)
+- Past surveys
+  - [2019Area48Survey](https://github.com/ccamlr/2019Area48Survey): Matlab code to process the data from the International Synoptic Krill Survey in Area 48, 2019.
+  
+- Current and future
+  - Survey design tool (*In prep.*)
+
 
 ## Longline
 
