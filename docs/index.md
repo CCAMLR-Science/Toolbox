@@ -9,7 +9,7 @@ layout: default
 # Resources from and for CCAMLR Scientists
 
 The table of contents below separates resources in broad themes,
-but some topics are cross-cutting and could be applied in different contexts.
+but some topics or codes are cross-cutting and could be applied in different contexts.
 
 [Contributors](./Contributors.html)
 
@@ -91,8 +91,8 @@ the [CCAMLRGIS] package to create random locations inside a chosen area and with
 
 - Tools
 
-  - [CCAMLRTOOLS](https://github.com/CCAMLR-Science/CCAMLRTOOLS): R package for processing and visualizing
-  official CCAMLR data.
+  - [CCAMLRTOOLS](https://github.com/CCAMLR-Science/CCAMLRTOOLS): R package for loading official CCAMLR data 
+  and calculating the Tag Overlap Statistic.
   
 
 
@@ -100,11 +100,14 @@ the [CCAMLRGIS] package to create random locations inside a chosen area and with
 
 # Geographic Information Systems 
 
--	Geospatial Operations (geospatial_operations)
--	Geographical Data
-o	Repo
-o	Bathymetry ops
--	CCAMLRGIS (CCAMLRGIS)
--	Shiny data viewers
--	Satellite data
+-	[geospatial_operations](https://github.com/ccamlr/geospatial_operations): R scripts to generate
+spatial layers following the Geospatial Rules, and other resources such as coastlines.
+
+-	[Geographical Data](https://github.com/ccamlr/data): Repository of shapefiles and GeoTIFFs.
+
+-	[CCAMLRGIS]: R library to assist in the production of maps and the production of some spatial analyses.
+
+-	Shiny data viewers: Online GIS data viewers, including a [public one](https://ccamlrgis.shinyapps.io/public/).
+
+-	Satellite data (*In prep.*)
 
