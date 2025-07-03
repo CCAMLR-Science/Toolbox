@@ -110,13 +110,10 @@ CCAMLR Subareas and Divisions, bathymetry data).
 -	Shiny data viewers: Online GIS data viewers, including a [public one](https://ccamlrgis.shinyapps.io/public/).
 
 -	[CCAMLRGIS] R library to assist in the production of maps and the production of some spatial analyses. Examples:
-
   - [Basemaps](https://github.com/ccamlr/CCAMLRGIS/blob/master/Basemaps/Basemaps.md#basemaps): R scripts
   to reproduce the maps shown in the [Fishery Reports](https://fisheryreports.ccamlr.org./).
-  
   - [Data gridding](https://github.com/ccamlr/CCAMLRGIS/blob/master/Advanced_Grids/Advanced_Grids.md#advanced-grids-tutorial): 
   R tutorial to produce maps of gridded data.
-  
   - [Seabed area estimation](./seabed_area_doc.html): R script to estimate planimetric seabed area.
 
 -	Satellite data (*In prep.*)
