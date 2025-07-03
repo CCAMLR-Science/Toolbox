@@ -1,6 +1,12 @@
 
 <!-- File.md is generated from File.Rmd. Please edit that file -->
 
+``` math
+E = mc^2
+```
+
+Test$`^2$
+
 # Seabed area estimation – an example in Subarea 48.6
 
 Estimating planimetric seabed area (*i.e.*, the area between two

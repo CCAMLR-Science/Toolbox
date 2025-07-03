@@ -15,6 +15,11 @@ knitr::opts_chunk$set(
 library(knitr)
 ```
 
+```math
+E = mc^2
+```
+
+Test$`^2$
 
 
 # Seabed area estimation -- an example in Subarea 48.6
