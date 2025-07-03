@@ -25,6 +25,8 @@ and its Research Blocks (Fig. 1).
 
 [**Download R script**](./Codes/Seabed_Area/seabed_area_code.R).
 
+<a href="./Codes/Seabed_Area/seabed_area_code.R" style="font-size: 18px; color: blue;">Download R script</a>
+
 ------------------------------------------------------------------------
 
 
@@ -46,6 +48,4 @@ Figure 1. Map of Subarea 48.6 and its Research Blocks ([Source](https://github.c
 3. Run the script. A csv file should have been created in your folder.
 
 
-
-[Back to Home](./)
 

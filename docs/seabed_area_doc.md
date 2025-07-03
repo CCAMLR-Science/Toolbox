@@ -11,6 +11,9 @@ estimated for the entire Subarea 48.6 and its Research Blocks (Fig. 1).
 
 [**Download R script**](./Codes/Seabed_Area/seabed_area_code.R).
 
+<a href="./Codes/Seabed_Area/seabed_area_code.R" style="font-size: 18px; color: blue;">Download
+R script</a>
+
 ------------------------------------------------------------------------
 
 <img src="https://raw.githubusercontent.com/ccamlr/CCAMLRGIS/refs/heads/master/Basemaps/Map_Area_486.png" width="100%" style="display: block; margin: auto;" />
@@ -28,5 +31,3 @@ Figure 1. Map of Subarea 48.6 and its Research Blocks
 2.  Download the un-projected bathymetry from here (*link to come*),
 
 3.  Run the script. A csv file should have been created in your folder.
-
-[Back to Home](./)
