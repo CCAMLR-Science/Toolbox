@@ -15,9 +15,8 @@ knitr::opts_chunk$set(
 library(knitr)
 ```
 
-$$
-Test=a \times b^3
-$$
+
+a$`^3`$
 
 # Seabed area estimation -- an example in Subarea 48.6
 

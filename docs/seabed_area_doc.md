@@ -1,9 +1,7 @@
 
 <!-- File.md is generated from File.Rmd. Please edit that file -->
 
-$$
-Test=a \times b^3
-$$
+a$`^3`$
 
 # Seabed area estimation – an example in Subarea 48.6
 
