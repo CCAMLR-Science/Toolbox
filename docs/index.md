@@ -109,7 +109,7 @@ CCAMLR Subareas and Divisions, bathymetry data).
 
 -	Shiny data viewers: Online GIS data viewers, including a [public one](https://ccamlrgis.shinyapps.io/public/).
 
-- [CCAMLRGIS] R library to assist in the production of maps and the production of some spatial analyses. Examples:
+- [CCAMLRGIS] R library to assist in the production of maps and of some spatial analyses. Examples:
 
   - [Basemaps](https://github.com/ccamlr/CCAMLRGIS/blob/master/Basemaps/Basemaps.md#basemaps): R scripts 
   to reproduce the maps shown in the [Fishery Reports](https://fisheryreports.ccamlr.org./).
