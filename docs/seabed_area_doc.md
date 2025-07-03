@@ -16,9 +16,8 @@ and its Research Blocks (Fig. 1).
 ------------------------------------------------------------------------
 
 
-and a figure:
-
 ![Subarea486](https://github.com/ccamlr/CCAMLRGIS/blob/master/Basemaps/Map_Area_486.png)
-Figure 1. Map of Subarea 48.6 and its Research Blocks.
+Figure 1. Map of Subarea 48.6 and its Research Blocks ([Source](https://github.com/ccamlr/CCAMLRGIS/blob/master/Basemaps/Basemaps.md#basemaps)).
+
 
 [back to Main page](./)
