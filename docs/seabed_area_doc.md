@@ -18,6 +18,8 @@ R script</a>
 
 Figure 1. Map of Subarea 48.6 and its Research Blocks
 ([Source](https://github.com/ccamlr/CCAMLRGIS/blob/master/Basemaps/Basemaps.md#basemaps)).
+The “fishable area” (seabed area between 600 and 1800m) is shaded in
+green.
 
 <br>
 
