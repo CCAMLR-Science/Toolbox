@@ -126,3 +126,4 @@ CCAMLR Subareas and Divisions, bathymetry data).
 
 <button name="button" onclick="./">Click me</button>
 <button name="button" onclick="https://www.ccamlr.org/">Top</button>
+<button onclick="window.location.href='https://bing.com';">Click</button>
