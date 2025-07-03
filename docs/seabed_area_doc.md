@@ -1,7 +1,4 @@
 
----
-usemathjax: true
----
 
 <!-- File.md is generated from File.Rmd. Please edit that file -->
 
