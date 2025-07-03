@@ -26,7 +26,8 @@ Figure 1. Map of Subarea 48.6 and its Research Blocks
 1.  Create a folder, a new R project in that folder, and put the R
     script in that folder,
 
-2.  Download the un-projected bathymetry from here (*link to come*),
+2.  Download the un-projected bathymetry from here (*link to come*) and
+    put it in that folder,
 
 3.  Run the script. A csv file should have been created in your folder
     (Table 1).
