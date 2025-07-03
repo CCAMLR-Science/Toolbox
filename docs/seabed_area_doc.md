@@ -9,25 +9,14 @@ Analysis](https://fishdocs.ccamlr.org/TrendAnalysis_2024.html)). The R
 script linked below provides an example in which seabed area is
 estimated for the entire Subarea 48.6 and its Research Blocks (Fig. 1).
 
-[Download R script](./Codes/Seabed_Area/seabed_area_code.R),
+[**Download R script**](./Codes/Seabed_Area/seabed_area_code.R).
 
 ------------------------------------------------------------------------
 
-![Subarea486](https://raw.githubusercontent.com/ccamlr/CCAMLRGIS/refs/heads/master/Basemaps/Map_Area_486.png)
+<img src="https://raw.githubusercontent.com/ccamlr/CCAMLRGIS/refs/heads/master/Basemaps/Map_Area_486.png" width="100%" style="display: block; margin: auto;" />
+
 Figure 1. Map of Subarea 48.6 and its Research Blocks
 ([Source](https://github.com/ccamlr/CCAMLRGIS/blob/master/Basemaps/Basemaps.md#basemaps)).
-
-<br>
-
-<div class="figure" style="text-align: center">
-
-<img src="https://raw.githubusercontent.com/ccamlr/CCAMLRGIS/refs/heads/master/Basemaps/Map_Area_486.png" alt="Figure 1. Map of Subarea 48.6 and its Research Blocks ([Source](https://github.com/ccamlr/CCAMLRGIS/blob/master/Basemaps/Basemaps.md#basemaps))." width="100%" />
-<p class="caption">
-Figure 1. Map of Subarea 48.6 and its Research Blocks
-([Source](https://github.com/ccamlr/CCAMLRGIS/blob/master/Basemaps/Basemaps.md#basemaps)).
-</p>
-
-</div>
 
 <br>
 

@@ -23,19 +23,17 @@ task in CCAMLR works (*e.g.*, in the [Trend Analysis](https://fishdocs.ccamlr.or
 The R script linked below provides an example in which seabed area is estimated for the entire Subarea 48.6 
 and its Research Blocks (Fig. 1).
 
-[Download R script](./Codes/Seabed_Area/seabed_area_code.R),
+[**Download R script**](./Codes/Seabed_Area/seabed_area_code.R).
 
 ------------------------------------------------------------------------
 
 
-![Subarea486](https://raw.githubusercontent.com/ccamlr/CCAMLRGIS/refs/heads/master/Basemaps/Map_Area_486.png)
-Figure 1. Map of Subarea 48.6 and its Research Blocks ([Source](https://github.com/ccamlr/CCAMLRGIS/blob/master/Basemaps/Basemaps.md#basemaps)).
-
-<br>
-
-```{r fig.align="center",out.width="100%",message=F,dpi=300,echo=F,fig.cap="Figure 1. Map of Subarea 48.6 and its Research Blocks ([Source](https://github.com/ccamlr/CCAMLRGIS/blob/master/Basemaps/Basemaps.md#basemaps))."}
+```{r fig.align="center",out.width="100%",echo=F}
 include_graphics("https://raw.githubusercontent.com/ccamlr/CCAMLRGIS/refs/heads/master/Basemaps/Map_Area_486.png")
 ```
+
+Figure 1. Map of Subarea 48.6 and its Research Blocks ([Source](https://github.com/ccamlr/CCAMLRGIS/blob/master/Basemaps/Basemaps.md#basemaps)).
+
 
 <br>
 
