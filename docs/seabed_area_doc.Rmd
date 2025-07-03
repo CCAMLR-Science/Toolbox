@@ -2,6 +2,7 @@
 output: github_document
 editor_options: 
   chunk_output_type: inline
+  usemathjax: true
 ---
 
 <!-- File.md is generated from File.Rmd. Please edit that file -->
