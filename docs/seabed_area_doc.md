@@ -9,9 +9,7 @@ Analysis](https://fishdocs.ccamlr.org/TrendAnalysis_2024.html)). The R
 script linked below provides an example in which seabed area is
 estimated for the entire Subarea 48.6 and its Research Blocks (Fig. 1).
 
-[**Download R script**](./Codes/Seabed_Area/seabed_area_code.R).
-
-<a href="./Codes/Seabed_Area/seabed_area_code.R" style="font-size: 18px; color: blue;">Download
+<a href="./Codes/Seabed_Area/seabed_area_code.R" style="font-size: 18px; color: #337ab7; font-weight: bold">Download
 R script</a>
 
 ------------------------------------------------------------------------
