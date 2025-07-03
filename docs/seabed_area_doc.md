@@ -5,6 +5,8 @@ a$`^3`$
 
 $`\sqrt{3x-1}+(1+x)^2`$
 
+km$^2$
+
 # Seabed area estimation – an example in Subarea 48.6
 
 Estimating planimetric seabed area (*i.e.*, the area between two

@@ -2,6 +2,7 @@ title: CCAMLR Science Toolbox
 logo: /assets/img/Logo.png
 description: www.ccamlr.org
 show_downloads: true
+usemathjax: true
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
