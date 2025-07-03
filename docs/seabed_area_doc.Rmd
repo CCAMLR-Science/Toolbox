@@ -16,6 +16,7 @@ knitr::opts_chunk$set(
 library(knitr)
 ```
 
+$$a=b^3$$
 
 a$`^3`$
 

@@ -1,6 +1,8 @@
 
 <!-- File.md is generated from File.Rmd. Please edit that file -->
 
+$$a=b^3$$
+
 a$`^3`$
 
 $`\sqrt{3x-1}+(1+x)^2`$
