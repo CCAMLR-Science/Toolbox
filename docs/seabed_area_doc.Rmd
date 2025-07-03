@@ -53,3 +53,9 @@ Table 1. Seabed area (km$^2$) between 600 and 1800m (referred to as "*Fishable a
 Tab=read.csv("./Codes/Seabed_Area/FishArea.csv")
 kableExtra::kable(Tab,row.names = F)
 ```
+
+
+<br>
+
+<button onclick="window.location.href='./seabed_area_doc.html';">Top</button>
+<button onclick="window.location.href='./';">Home</button>

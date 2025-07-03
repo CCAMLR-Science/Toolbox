@@ -122,8 +122,6 @@ CCAMLR Subareas and Divisions, bathymetry data).
 -	Satellite data (*In prep.*)
 
 
-[Link to another page](./another-page.html)
+<br>
 
-<button name="button" onclick="./">Click me</button>
-<button name="button" onclick="https://www.ccamlr.org/">Top</button>
-<button onclick="window.location.href='https://bing.com';">Click</button>
+<button onclick="window.location.href='./';">Top</button>
