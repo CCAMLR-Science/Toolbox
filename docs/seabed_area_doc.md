@@ -1,51 +1,43 @@
 
 <!-- File.md is generated from File.Rmd. Please edit that file -->
 
-# CCAMLRGIS R package
+# Seabed area estimation – an example in Subarea 48.6
 
-<!-- badges: start -->
+Estimating planimetric seabed area (*i.e.*, the area between two
+isobaths) is a common task in CCAMLR works (*e.g.*, in the [Trend
+Analysis](https://fishdocs.ccamlr.org/TrendAnalysis_2024.html)). The R
+script linked below provides an example in which seabed area is
+estimated for the entire Subarea 48.6 and its Research Blocks (Fig. 1).
 
-[![CRAN
-status](https://www.r-pkg.org/badges/version/CCAMLRGIS)](https://cran.r-project.org/package=CCAMLRGIS)
-[![R-hub](https://github.com/ccamlr/CCAMLRGIS/actions/workflows/rhub.yaml/badge.svg)](https://github.com/ccamlr/CCAMLRGIS/actions/workflows/rhub.yaml)
-[![All
-downloads](https://cranlogs.r-pkg.org/badges/grand-total/CCAMLRGIS)](https://cran.r-project.org/package=CCAMLRGIS)
-[![Monthly
-downloads](https://cranlogs.r-pkg.org/badges/CCAMLRGIS)](https://cran.r-project.org/package=CCAMLRGIS)
-<!-- badges: end -->
-
-This package was developed to simplify the production of maps in the
-CAMLR Convention Area. It provides two main categories of functions:
-load functions and create functions. Load functions are used to import
-spatial layers from the online [CCAMLR GIS](https://gis.ccamlr.org/)
-such as the ASD boundaries. Create functions are used to create layers
-from user data such as polygons and grids.
-
-## Installation
-
-You can install the CCAMLRGIS R package from CRAN with:
-
-``` r
-install.packages("CCAMLRGIS")
-```
-
-## Documentation
-
-<center>
-
-### A package to load and create spatial data, including layers and tools that are relevant to CCAMLR activities.
-
-</center>
+[Download R script](./Codes/Seabed_Area/seabed_area_code.R),
 
 ------------------------------------------------------------------------
 
-<center>
+![Subarea486](https://raw.githubusercontent.com/ccamlr/CCAMLRGIS/refs/heads/master/Basemaps/Map_Area_486.png)
+Figure 1. Map of Subarea 48.6 and its Research Blocks
+([Source](https://github.com/ccamlr/CCAMLRGIS/blob/master/Basemaps/Basemaps.md#basemaps)).
 
-### Table of contents
+<br>
 
-</center>
+<div class="figure" style="text-align: center">
 
-------------------------------------------------------------------------
+<img src="https://raw.githubusercontent.com/ccamlr/CCAMLRGIS/refs/heads/master/Basemaps/Map_Area_486.png" alt="Figure 1. Map of Subarea 48.6 and its Research Blocks ([Source](https://github.com/ccamlr/CCAMLRGIS/blob/master/Basemaps/Basemaps.md#basemaps))." width="100%" />
+<p class="caption">
+Figure 1. Map of Subarea 48.6 and its Research Blocks
+([Source](https://github.com/ccamlr/CCAMLRGIS/blob/master/Basemaps/Basemaps.md#basemaps)).
+</p>
 
-1.  [Basemaps](#1-basemaps)
-2.  [Create functions](#2-create-functions)
+</div>
+
+<br>
+
+## Steps
+
+1.  Create a folder, a new R project in that folder, and put the R
+    script in that folder,
+
+2.  Download the un-projected bathymetry from here (*link to come*),
+
+3.  Run the script. A csv file should have been created in your folder.
+
+[Back to Home](./)
