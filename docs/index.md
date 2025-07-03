@@ -124,4 +124,5 @@ CCAMLR Subareas and Divisions, bathymetry data).
 
 [Link to another page](./another-page.html)
 
-<button name="button" onclick="http://www.google.com">Click me</button>
+<button name="button" onclick="./">Click me</button>
+<button name="button" onclick="https://www.ccamlr.org/">Top</button>
