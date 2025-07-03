@@ -1,11 +1,9 @@
 
 <!-- File.md is generated from File.Rmd. Please edit that file -->
 
-``` math
-E = mc^2
-```
-
-Test$`^2$
+$$
+Test=a \times b^3
+$$
 
 # Seabed area estimation – an example in Subarea 48.6
 
