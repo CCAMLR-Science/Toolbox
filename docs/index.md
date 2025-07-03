@@ -29,7 +29,7 @@ but some topics or codes are cross-cutting and could be applied in different con
   
 - Current and future
   - Protocols: See annexes of [WG-ASAM-2024](https://meetings.ccamlr.org/wg-asam-2024) Meeting Report.
-  - Survey design tool (*In prep.*)
+  - Survey design tool (*In prep?*)
 
 
 ## Longline
