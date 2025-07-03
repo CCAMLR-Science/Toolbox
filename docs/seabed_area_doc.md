@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Seabed area estimation - an example in Subarea 48.6
+# Seabed area estimation -- an example in Subarea 48.6
 
 Some text explaining what's what,
 
