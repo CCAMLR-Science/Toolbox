@@ -16,6 +16,12 @@ library(knitr)
 ```
 
 
+<!-- MathJax -->
+    <script type="text/javascript"
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    
+
 # Seabed area estimation -- an example in Subarea 48.6
 
 Estimating planimetric seabed area (*i.e.*, the area between two isobaths) is a common

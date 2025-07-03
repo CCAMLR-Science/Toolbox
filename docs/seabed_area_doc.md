@@ -1,5 +1,10 @@
 
 <!-- File.md is generated from File.Rmd. Please edit that file -->
+<!-- MathJax -->
+
+    <script type="text/javascript"
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
 
 # Seabed area estimation – an example in Subarea 48.6
 
