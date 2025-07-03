@@ -43,7 +43,12 @@ Figure 1. Map of Subarea 48.6 and its Research Blocks ([Source](https://github.c
 
 2. Download the un-projected bathymetry from here (*link to come*),
 
-3. Run the script. A csv file should have been created in your folder.
+3. Run the script. A csv file should have been created in your folder (Table 1).
 
+<br>
 
-
+Table 1. Seabed area (km$^2$) between 600 and 1800m (referred to as "*Fishable area*") in Subarea 48.6 and its Research Blocks.
+```{r, echo = FALSE}
+Tab=read.csv("./Codes/Seabed_Area/FishArea.csv")
+kableExtra::kable(Tab,row.names = F)
+```

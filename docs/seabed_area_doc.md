@@ -28,4 +28,18 @@ Figure 1. Map of Subarea 48.6 and its Research Blocks
 
 2.  Download the un-projected bathymetry from here (*link to come*),
 
-3.  Run the script. A csv file should have been created in your folder.
+3.  Run the script. A csv file should have been created in your folder
+    (Table 1).
+
+<br>
+
+Table 1. Seabed area (km$^2$) between 600 and 1800m (referred to as
+“*Fishable area*”) in Subarea 48.6 and its Research Blocks.
+
+| GAR_Long_Label | Fishable_area |
+|:---------------|--------------:|
+| 48.6           |      80964.82 |
+| 48.6_2         |       9330.55 |
+| 48.6_3         |        943.37 |
+| 48.6_4         |      10511.03 |
+| 48.6_5         |       8390.91 |
