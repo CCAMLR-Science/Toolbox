@@ -20,4 +20,14 @@ and its Research Blocks (Fig. 1).
 Figure 1. Map of Subarea 48.6 and its Research Blocks ([Source](https://github.com/ccamlr/CCAMLRGIS/blob/master/Basemaps/Basemaps.md#basemaps)).
 
 
-[back to Main page](./)
+## Steps
+
+1. Create a folder, a new R project in that folder, and put the R script in that folder,
+
+2. Download the un-projected bathymetry from here (*link to come*),
+
+3. Run the script. A csv file should have been created in your folder.
+
+
+
+[Back to Home](./)
