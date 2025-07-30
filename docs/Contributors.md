@@ -12,8 +12,10 @@ layout: default
 [Daphnis De Pooter](https://www.ccamlr.org/en/organisation/secretariats-current-staff)
 
 
-## Member 1
+## New Zealand
 
+[A. Dunn](/assets/img/Alistair Dunn.jpg)  
+[Alistair Dunn](https://alistairdunn1.github.io/)
 
 ## Member 2
 
