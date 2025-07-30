@@ -14,7 +14,7 @@ layout: default
 
 ## New Zealand
 
-[A. Dunn](/assets/img/Alistair Dunn.jpg)
+![A. Dunn](/assets/img/Alistair Dunn.jpg)
 [Alistair Dunn](https://alistairdunn1.github.io/)
 
 ## Member 2
