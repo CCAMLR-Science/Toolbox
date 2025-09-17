@@ -94,6 +94,8 @@ the [CCAMLRGIS] package to create random locations inside a chosen area and with
   - [CCAMLRTOOLS](https://github.com/CCAMLR-Science/CCAMLRTOOLS): R package for loading official CCAMLR data 
   and calculating the Tag Overlap Statistic.
   
+  - [Conversion Factors - Power Analysis](./CF_Power_doc.html): R script to conduct a Power Analysis on simulated Conversion Factor data.
+  
 
 
 <br>
