@@ -28,7 +28,7 @@ A simple definition of power is the probability of detecting a change using a st
 ------------------------------------------------------------------------
 
 
-```{r fig.align="center",out.width="50%",echo=F}
+```{r fig.align="center",out.width="75%",echo=F}
 include_graphics("./Codes/CF_Power/CF_Power_Simulated.png")
 ```
 

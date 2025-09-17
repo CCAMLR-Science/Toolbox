@@ -17,7 +17,7 @@ R script</a>
 
 ------------------------------------------------------------------------
 
-<img src="./Codes/CF_Power/CF_Power_Simulated.png" width="50%" style="display: block; margin: auto;" />
+<img src="./Codes/CF_Power/CF_Power_Simulated.png" width="75%" style="display: block; margin: auto;" />
 
 Figure 1. Results of the power analysis using simulated data. **Top**:
 Power as a function of number of samples per longline set, for 3
