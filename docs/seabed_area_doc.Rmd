@@ -57,5 +57,5 @@ kableExtra::kable(Tab,row.names = F)
 
 <br>
 
-<button onclick="window.location.href='./seabed_area_doc.html';">Top</button>
+
 <button onclick="window.location.href='./';">Home</button>

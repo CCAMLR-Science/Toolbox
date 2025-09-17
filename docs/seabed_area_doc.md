@@ -49,9 +49,7 @@ Table 1. Seabed area (km$^2$) between 600 and 1800m (referred to as
 
 <br>
 
-<button onclick="window.location.href=&#39;./seabed_area_doc.html&#39;;">
-Top
-</button>
 <button onclick="window.location.href=&#39;./&#39;;">
+
 Home
 </button>

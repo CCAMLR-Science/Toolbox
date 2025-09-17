@@ -40,11 +40,6 @@ sets per month. The grey area indicates the zone of insufficient power.
 
 <br>
 
-<button onclick="window.location.href=&#39;./CF_Power_doc.html&#39;;">
-
-Top
-</button>
-
 <button onclick="window.location.href=&#39;./&#39;;">
 
 Home
