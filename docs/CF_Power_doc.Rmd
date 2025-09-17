@@ -46,4 +46,6 @@ Figure 1. Results of the power analysis using simulated data. **Top**: Power as 
 <br>
 
 
-<button onclick="window.location.href='./';">Home</button>
+<form action="./">
+    <input type="submit" value="Home" />
+</form>

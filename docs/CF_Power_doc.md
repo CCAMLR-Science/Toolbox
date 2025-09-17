@@ -40,7 +40,7 @@ sets per month. The grey area indicates the zone of insufficient power.
 
 <br>
 
-<button onclick="window.location.href=&#39;./&#39;;">
+<form action="./">
 
-Home
-</button>
+<input type="submit" value="Home" />
+</form>
