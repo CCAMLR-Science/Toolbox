@@ -31,8 +31,8 @@ green.
 2.  Download the un-projected bathymetry from here (*link to come*) and
     put it in that folder,
 
-3.  Run the script. A csv file should have been created in your folder
-    (Table 1).
+3.  Open the R project and run the script. A csv file will be created in
+    your folder (Table 1).
 
 <br>
 

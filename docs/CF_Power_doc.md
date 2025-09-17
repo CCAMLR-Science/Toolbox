@@ -35,8 +35,8 @@ sets per month. The grey area indicates the zone of insufficient power.
 1.  Create a folder, a new R project in that folder, and put the R
     script in that folder,
 
-2.  Run the script. A csv file and a figure (Fig. 1) should have been
-    created in your folder.
+2.  Open the R project and run the script. A csv file and a figure
+    (Fig. 1) will be created in your folder.
 
 <br>
 
