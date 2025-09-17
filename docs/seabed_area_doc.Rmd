@@ -59,3 +59,8 @@ kableExtra::kable(Tab,row.names = F)
 
 
 <button onclick="window.location.href='./';">Home</button>
+
+
+<form action="./">
+    <input type="submit" value="Home" />
+</form>
