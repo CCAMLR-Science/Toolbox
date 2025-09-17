@@ -45,5 +45,5 @@ Figure 1. Results of the power analysis using simulated data. **Top**: Power as 
 
 <br>
 
-<button onclick="window.location.href='./seabed_area_doc.html';">Top</button>
+<button onclick="window.location.href='./CF_Power_doc.html';">Top</button>
 <button onclick="window.location.href='./';">Home</button>
