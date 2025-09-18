@@ -17,10 +17,11 @@ layout: default
 ![A. Dunn](/assets/img/Alistair Dunn.jpg)
 [Alistair Dunn](https://alistairdunn1.github.io/)
 
+## Other
 
 ![G. Macaulay](/assets/img/GavinMacaulay.png)
 [Gavin Macaulay](https://aqualyd.nz/index.php/about/)
 
 
-## Member 2
+
 
