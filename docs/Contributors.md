@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Contributors
 ---
 
 ## CCAMLR Secretariat
@@ -16,6 +17,13 @@ layout: default
 
 ![A. Dunn](/assets/img/Alistair Dunn.jpg)
 [Alistair Dunn](https://alistairdunn1.github.io/)
+
+
+## Australia
+
+![M. Cox](/assets/img/Martin_Cox.png)
+[Martin Cox](https://www.abc.net.au/news/2018-01-16/echo-sounding-of-krill-aims-to-estimate-populations/9333248?utm_campaign=abc_news_web&utm_content=link&utm_medium=content_shared&utm_source=abc_news_web)
+
 
 ## Other
 
