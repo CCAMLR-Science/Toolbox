@@ -22,7 +22,7 @@ title: Contributors
 ## Australia
 
 ![M. Cox](/assets/img/Martin_Cox.png)
-[Martin Cox](https://www.abc.net.au/news/2018-01-16/echo-sounding-of-krill-aims-to-estimate-populations/9333248?utm_campaign=abc_news_web&utm_content=link&utm_medium=content_shared&utm_source=abc_news_web)
+[Martin Cox](https://doi.org/10.1126/science.adq5564)
 
 
 ## Other
