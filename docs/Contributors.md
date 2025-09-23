@@ -28,7 +28,7 @@ title: Contributors
 ## United Kingdom 
 
 ![V. Warwick-Evans](/assets/img/Vicky_Warwick-Evans.jpg)
-[Vicky Warwick-Evans](https://www.bas.ac.uk/profile/vicrwi/)
+[Victoria Warwick-Evans](https://www.bas.ac.uk/profile/vicrwi/)
 
 
 ## Other
