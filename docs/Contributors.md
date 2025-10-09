@@ -24,6 +24,9 @@ title: Contributors
 ![M. Cox](/assets/img/Martin_Cox.png)
 [Martin Cox](https://doi.org/10.1126/science.adq5564)
 
+![D. Maschette](/assets/img/Dale Maschette.JPEG)
+[Dale Maschette](https://github.com/Maschette)
+
 
 ## United Kingdom 
 
