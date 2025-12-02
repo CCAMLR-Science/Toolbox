@@ -82,8 +82,6 @@ the [CCAMLRGIS] package to create random locations inside a chosen area and with
   - [Casal2_resources (private)](https://github.com/CCAMLR-Science/Casal2_resources): Casal2 training materials, 
   example R codes and diagnostics.
   
-  -	Biological parameters estimation (*In prep.*)
-  
   - Diagnostics (*In prep.*)
   
 - [Trend_Analysis](https://github.com/CCAMLR-Science/Trend_Analysis): R scripts of the
@@ -96,8 +94,7 @@ the [CCAMLRGIS] package to create random locations inside a chosen area and with
   
   - [Conversion Factors - Power Analysis](./CF_Power_doc.html): R script to conduct a Power Analysis on simulated Conversion Factor data.
   
-  - [Biological Parameters Estimation](./Biological_Parameters_doc.html): R scripts to estimate toothfish biological parameters (*e.g.*, age at maturity, growth curves etc...)
-  
+  - [Biological Parameters Estimation](./Biological_Parameters_doc.html): R scripts to estimate toothfish biological parameters (age at maturity, growth curves etc...)
   
 
 <br>
