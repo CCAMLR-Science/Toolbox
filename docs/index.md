@@ -96,7 +96,9 @@ the [CCAMLRGIS] package to create random locations inside a chosen area and with
   
   - [Conversion Factors - Power Analysis](./CF_Power_doc.html): R script to conduct a Power Analysis on simulated Conversion Factor data.
   
-
+  - [Biological Parameters Estimation](./Biological_Parameters_doc.html): R scripts to estimate toothfish biological parameters (*e.g.*, age at maturity, growth curves etc...)
+  
+  
 
 <br>
 

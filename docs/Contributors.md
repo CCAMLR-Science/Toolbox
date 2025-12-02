@@ -33,6 +33,12 @@ title: Contributors
 ![V. Warwick-Evans](/assets/img/Vicky_Warwick-Evans.jpg)
 [Victoria Warwick-Evans](https://www.bas.ac.uk/profile/vicrwi/)
 
+![S. Alewijnse](/assets/img/Sarah_Alewijnse.jpg)
+[Sarah Alewijnse](https://www.cefas.co.uk/icoe/aquatic-animal-health/our-people/our-staff/sarah-alewijnse/)
+
+![J. Marsh](/assets/img/Jessica_Marsh.jpg)
+[Jessica Marsh](https://scholar.google.com/citations?user=6VHvhjwAAAAJ&hl=en)
+
 
 ## Other
 
