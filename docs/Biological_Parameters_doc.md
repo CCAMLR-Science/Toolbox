@@ -10,7 +10,7 @@ Uses a logit-link binomial model to estimate age at 50% maturity.
 <a href="./Codes/Biological_Parameters/age-at-maturity.R" style="font-size: 18px; color: #337ab7; font-weight: bold">Download
 R script</a>
 
-<img src="./Codes/Biological_Parameters/Blank_Image.jpg" width="75%" style="display: block; margin: auto;" />
+<img src="./Codes/Biological_Parameters/age-at-maturity.png" width="75%" style="display: block; margin: auto;" />
 Figure 1. Example of fitted logit-link binomial model to estimate age at
 50% maturity. Dotted lines indicate the point in the model where 50% of
 individuals are estimated to be mature, and the corresponding age. Size
@@ -33,13 +33,13 @@ functions.
 <a href="./Codes/Biological_Parameters/bayesian-vbgf.R" style="font-size: 18px; color: #337ab7; font-weight: bold">Download
 R script</a>
 
-<img src="./Codes/Biological_Parameters/Blank_Image.jpg" width="75%" style="display: block; margin: auto;" />
+<img src="./Codes/Biological_Parameters/vbgf-1.png" width="75%" style="display: block; margin: auto;" />
 Figure 2. Example of a fitted VBGF on combined sex data. Blue = males,
 red = females.
 
 <br>
 
-<img src="./Codes/Biological_Parameters/Blank_Image.jpg" width="75%" style="display: block; margin: auto;" />
+<img src="./Codes/Biological_Parameters/vbgf-2.png" width="75%" style="display: block; margin: auto;" />
 Figure 3. Example of diagnostic plots for the L_inf variable in the
 fitted VBGF. Top left = density plot, top right = trace plot, bottom =
 autocorrelation function barplot.
@@ -57,7 +57,7 @@ Fits an exponential curve to length-weight data.
 <a href="./Codes/Biological_Parameters/length-weight.R" style="font-size: 18px; color: #337ab7; font-weight: bold">Download
 R script</a>
 
-<img src="./Codes/Biological_Parameters/Blank_Image.jpg" width="75%" style="display: block; margin: auto;" />
+<img src="./Codes/Biological_Parameters/length-weight.png" width="75%" style="display: block; margin: auto;" />
 Figure 4. Example of fitted exponential curve to length-weight data.
 
 <br>
