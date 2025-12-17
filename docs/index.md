@@ -29,7 +29,7 @@ but some topics or codes are cross-cutting and could be applied in different con
   
 - Current and future
   - Protocols: See annexes of [WG-ASAM-2024](https://meetings.ccamlr.org/wg-asam-2024) Meeting Report.
-  - Survey design tool (*In prep?*)
+  - Survey design tool ([In prep](https://discussions.ccamlr.org/c/acoustic-survey-design/31))
 
 
 ## Longline
@@ -108,7 +108,7 @@ and other resources such as coastlines.
 -	[Geographical Data](https://github.com/ccamlr/data): Repository of georeferenced layers (*e.g.*,
 CCAMLR Subareas and Divisions, bathymetry data).
 
--	Shiny data viewers: Online GIS data viewers, including a [public one](https://ccamlrgis.shinyapps.io/public/).
+-	Shiny data viewers: Online GIS data viewers, including a [public one](https://spatial.ccamlr.org/) and two Member-only ones (for [Science](https://membergis.ccamlr.org/science/) and [Acoustics](https://membergis.ccamlr.org/acoustic/)).
 
 - [CCAMLRGIS] R library to assist in the production of maps and of some spatial analyses. Examples:
 
