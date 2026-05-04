@@ -2,8 +2,6 @@
 layout: default
 ---
 
-[CCAMLRGIS]:https://github.com/ccamlr/CCAMLRGIS?tab=readme-ov-file#ccamlrgis-r-package
-
 ------------------------------------------------------------------------
 
 # Resources from and for CCAMLR Scientists
@@ -35,7 +33,7 @@ but some topics or codes are cross-cutting and could be applied in different con
 ## Longline
 
 - [create_Stations](https://github.com/ccamlr/CCAMLRGIS#22-create-stations): R function from
-the [CCAMLRGIS] package to create random locations inside a chosen area and within bathymetry constraints.
+the [CCAMLRGIS](https://github.com/ccamlr/CCAMLRGIS?tab=readme-ov-file#ccamlrgis-r-package) package to create random locations inside a chosen area and within bathymetry constraints.
 
 ## Trawl
 
@@ -119,7 +117,7 @@ to several numerical tools that are used by the Secretariat when conducting geos
 
 -	Shiny data viewers: Online GIS data viewers, including a [public one](https://spatial.ccamlr.org/) and two Member-only ones (for [Science](https://membergis.ccamlr.org/science/) and [Acoustics](https://membergis.ccamlr.org/acoustic/)).
 
-- [CCAMLRGIS] : R library to assist in the production of maps and of some spatial analyses. Examples:
+- [CCAMLRGIS](https://github.com/ccamlr/CCAMLRGIS?tab=readme-ov-file#ccamlrgis-r-package): R library to assist in the production of maps and of some spatial analyses. Examples:
 
   - [Basemaps](https://github.com/ccamlr/CCAMLRGIS/blob/master/Basemaps/Basemaps.md#basemaps): R scripts 
   to reproduce the maps shown in the [Fishery Reports](https://fisheryreports.ccamlr.org./).
