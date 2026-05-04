@@ -71,8 +71,8 @@ the [CCAMLRGIS] package to create random locations inside a chosen area and with
   - [SOA_model_input_data (private)](https://github.com/CCAMLR-Science/SOA_model_input_data): Spatial
   Overlap Analysis model inputs.
   
-  - [RecMaker](https://github.com/ccamlr/RecMaker): R script to simulate time series of krill proportional
-  recruitment indices.
+  - [RecMaker](https://github.com/ccamlr/RecMaker#recmaker---krill-proportional-recruitment-time-series-simulator): R script
+  to simulate time series of krill proportional recruitment indices.
   
 
 ## Toothfish
@@ -101,16 +101,25 @@ the [CCAMLRGIS] package to create random locations inside a chosen area and with
 
 # Geographic Information Systems 
 
--	[geospatial_operations](https://github.com/ccamlr/geospatial_operations): R scripts to generate
+-	[Geospatial Operations](https://github.com/ccamlr/geospatial_operations#ccamlr-geospatial-operations): R scripts to generate
 spatial layers following the [Geospatial Rules](https://github.com/ccamlr/geospatial_operations?tab=readme-ov-file#1-geospatial-rules),
 and other resources such as coastlines.
 
 -	[Geographical Data](https://github.com/ccamlr/data): Repository of georeferenced layers (*e.g.*,
 CCAMLR Subareas and Divisions, bathymetry data).
 
+- [Geospatial Tools](https://github.com/ccamlr/geospatial_operations/blob/main/Documentation/Tools.md#tools): provides access
+to several numerical tools that are used by the Secretariat when conducting geospatial analyses. Examples:
+
+  - [Fishery Concentration Index](https://github.com/ccamlr/geospatial_operations/blob/main/Documentation/Tools.md#11-fishery-concentration-index): R scripts 
+ designed to visualise temporal trends in spatial concentration of catches.
+ 
+  - [Fishery Concentration Areas](https://github.com/ccamlr/geospatial_operations/blob/main/Documentation/Tools.md#12-fishery-concentration-areas): R workflow
+  designed to visualise spatial trends in concentration of catches.
+
 -	Shiny data viewers: Online GIS data viewers, including a [public one](https://spatial.ccamlr.org/) and two Member-only ones (for [Science](https://membergis.ccamlr.org/science/) and [Acoustics](https://membergis.ccamlr.org/acoustic/)).
 
-- [CCAMLRGIS] R library to assist in the production of maps and of some spatial analyses. Examples:
+- [CCAMLRGIS]: R library to assist in the production of maps and of some spatial analyses. Examples:
 
   - [Basemaps](https://github.com/ccamlr/CCAMLRGIS/blob/master/Basemaps/Basemaps.md#basemaps): R scripts 
   to reproduce the maps shown in the [Fishery Reports](https://fisheryreports.ccamlr.org./).
