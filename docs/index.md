@@ -126,6 +126,9 @@ to several numerical tools that are used by the Secretariat when conducting geos
   R tutorial to produce maps of gridded data.
 
   - [Seabed area estimation](./seabed_area_doc.html): R script to estimate planimetric seabed area.
+  
+  - [Report maps](https://github.com/ccamlr/CCAMLRGIS/blob/master/Report%20maps/Report_Maps.md#report-maps): R scripts 
+  to reproduce the maps shown in CCAMLR reports.
 
 -	Satellite data (*In prep.*)
 
